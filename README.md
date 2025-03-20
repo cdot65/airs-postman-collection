@@ -8,8 +8,6 @@ The AI Runtime Security Postman collection provides pre-configured API requests 
 
 - Authenticate to the AIRS API
 - Query security insights and findings
-- Manage security policies
-- Interact with AI model security controls
 - Generate reports and analytics
 
 ## Getting Started
